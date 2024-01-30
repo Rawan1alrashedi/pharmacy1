@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">pharmacy</string>
+    <string name="about_the_application">About the Application:</string>
+    <string name="team_names">Team Names:</string>
+    <string name="member_1">Member 1</string>
+    <string name="this_is_a_pharmacy_application">This is a pharmacy application</string>
+    <string name="website">Website:</string>
+    <string name="www_google_com">www.google.com</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="_0560000">0560000</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">welcome ..</string>
+    <string name="Our_app_lists_many_approved_pharmacies_around_the_world" />
+    <string name="rawan_alrashedi" />
+    <string name="todo">TODO</string>
+    <string name="_0506242137">0506242137</string>
+    <string name="callus">callUs</string>
+    <string name="Exit" />
+</resources>
